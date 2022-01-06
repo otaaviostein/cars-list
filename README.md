@@ -14,8 +14,13 @@ npm install
 
 ## ☕ Rodando o projeto
 
-Para rodar, execute o comando abaixo:
+Para rodar, utilizei o http-server, a instalação pode ser feita com o comando:
 
+```
+npm install --global http-server
+```
+
+Depois executar utilizando:
 ```
 http-server -o
 ```
